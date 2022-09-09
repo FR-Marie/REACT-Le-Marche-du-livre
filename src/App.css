@@ -1,38 +1,68 @@
-.App {
-  text-align: center;
+.p-description{
+  height: 100px;
+  overflow-y: scroll;
+}
+#livre-card{
+  border: 1px solid lightgoldenrodyellow;
+}
+#card-footer{
+  border-top: 1px solid lightgoldenrodyellow;
+}
+#card-img{
+  width: 90px;
+  height: 150px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1{
+  font-size: 60px!important;
+  background: -webkit-linear-gradient(white, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.p-card{
+  font-size: 14px!important;
+  background: -webkit-linear-gradient(white, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#btn-details{
+  font-size: 20px!important;
+  background: -webkit-linear-gradient(white, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border: none;
 }
 
-.App-link {
-  color: #61dafb;
+h3{
+  font-size: 18px!important;
+  background: -webkit-linear-gradient(white, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 1px double lightgoldenrodyellow;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+nav a{
+  font-weight: bold!important;
+  font-size: 20px!important;
+  background: -webkit-linear-gradient(white, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
+
+#h3-details{
+  font-size: 30px!important;
+  background: -webkit-linear-gradient(white, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 1px double lightgoldenrodyellow;
+}
+#img-details{
+  width: 200px;
+}
+
+
+
+
+

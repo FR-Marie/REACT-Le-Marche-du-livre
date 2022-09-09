@@ -1,0 +1,81 @@
+{
+  "livres": [
+    {
+      "id": 1,
+      "categorie": "livres",
+      "genre": "Fantasy",
+      "auteur": "Robin HOBB",
+      "titre": "L'assassin Royal t1",
+      "image": "https://zupimages.net/up/22/34/gls3.png",
+      "description": "Bâtard du prince chevalerie, le jeune Fitz grandit dans l'ombre de la forteresse de Castelcerf, où le roi subtil ambitionne de faire de lui son assassin personnel. Mais pour survivre, et avant même d'apprendre à manier la lame, il lui faudra faire preuve d'une connaissance parfaite des arcanes de la politique.",
+      "prix": 7.5,
+      "stock": true
+    },
+    {
+      "id": 2,
+      "categorie": "livres",
+      "genre": "Fantasy",
+      "auteur": "Robin HOBB",
+      "titre": "L'assassin Royal t2",
+      "image": "https://zupimages.net/up/22/34/3qmm.png",
+      "description": "Fitz, le bâtard princier, est devenu une arme redoutable et redoutée. Il maîtrise le Vif - la faculté de communiquer avec les animaux - et devient expert dans l'Art. Guerrier accompli, rompu à toutes les façons de tuer, il personnifie autant la justice du roi qu'il est le chevalier servant du prince Vérité.",
+      "prix": 8.2,
+      "stock": true
+    },
+    {
+      "id": 3,
+      "categorie": "livres",
+      "genre": "Fantasy",
+      "auteur": "Robin HOBB",
+      "titre": "L'assassin Royal t3",
+      "image": "https://zupimages.net/up/22/34/djso.png",
+      "description": "Les navires de guerre ne parviennent plus à tenir les Pirates rouges en respect. Dans le pays, les dissensions éclatent entre les duchés côtiers, qui doivent supporter les incessantes attaques de l'ennemi, et les duchés intérieurs qui se désintéressent de leur sort.",
+      "prix": 9.99,
+      "stock": false
+    },
+    {
+      "id": 4,
+      "categorie": "livres",
+      "genre": "Fantasy",
+      "auteur": "Robin HOBB",
+      "titre": "L'assassin Royal t4",
+      "image": "https://zupimages.net/up/22/34/cmr8.png",
+      "description": "Royal le fourbe, après avoir assassiné le souverain légitime, est monté sur le trône des Six-Duchés. Avec son entourage, le lâche usurpateur s'est replié à l'intérieur des terres. Dans son fief natal, certain de ne plus être inquiété par Fitzchevalerie, son ennemi intime, qu'il croit mort.",
+      "prix": 7.5,
+      "stock": true
+    },
+    {
+      "id": 5,
+      "categorie": "livres",
+      "genre": "Fantasy",
+      "auteur": "Robin HOBB",
+      "titre": "L'assassin Royal t5",
+      "image": "https://zupimages.net/up/22/34/lb7g.png",
+      "description": "Le roi Vérité est vivant ! Il a imposé une ultime mission à Fitz: \"Rejoins-moi !\" Loin sur les sentiers mystérieux de l'Art, au-delà du royaume des montagnes, le jeune homme se met en quête pour répondre à l'appel de son souverain affaibli.",
+      "prix": 8.2,
+      "stock": false
+    },
+    {
+      "id": 6,
+      "categorie": "livres",
+      "genre": "Fantasy",
+      "auteur": "Robin HOBB",
+      "titre": "L'assassin Royal t6",
+      "image": "https://zupimages.net/up/22/34/woqf.png",
+      "description": "A la tête d'une déroutante procession - la reine Kettricken, la propre femme de Chevalerie et le dernier espoir de voir la lignée des loinvoyants se perpétuer, la mystérieuse Caudron, Astérie la ménestrelle et le fou -, Fitz poursuit son chemin sur la voie magique. Une quête toujours plus ardue car incessante est la traque menée par Royal, son ennemi juré, et ses meilleurs artiseurs et soldats d'élite, pour les retrouver et les tuer.\nS'enfonçant avec difficulté dans une contrée oppressante habitée d'étranges présences, ils croisent peu à peu de gigantesques statues, jusqu'à voir bientôt se dresser devant eux une imposante carrière de pierre noire. Mais où se terre Vérité et... est-il seulement encore vivant ?",
+      "prix": 9.99,
+      "stock": false
+    },
+    {
+      "categorie": "Livres",
+      "genre": "Fantasy",
+      "auteur": "Robin HOBB",
+      "titre": "L'assassin Royale Tome 7",
+      "image": "https://zupimages.net/up/22/34/lax1.png",
+      "description": "Quinze années ont passé. Loin de la cour, et le coeur blessé, Fitz s'est réfugié dans une chaumière isolée avec son inséparable oeil-de-loup pour unique compagnon. Il espère enfin avoir trouvé la paix et rompu avec son terrible passé.",
+      "prix": "99.99",
+      "stock": true,
+      "id": 7
+    }
+  ]
+}
